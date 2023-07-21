@@ -1,5 +1,5 @@
 # Money-App-Installation
-A basic application to manage your money.
+A basic application to manage your money. Created in WPF.
 
 First you will have to write down your monthly salary:
 [![1.png](https://i.postimg.cc/SQLqgz0q/1.png)](https://postimg.cc/t7gLTJCm)
